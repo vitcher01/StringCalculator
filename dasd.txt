@@ -1,4 +1,4 @@
 changes in branch1
 changes in branch2
 changes again in branch 2
-
+changes again in branch1
