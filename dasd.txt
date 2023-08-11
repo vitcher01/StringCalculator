@@ -1,1 +1,2 @@
 changes in branch1
+changes in branch2
